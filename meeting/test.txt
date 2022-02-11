@@ -1,0 +1,1 @@
+INSERT INTO `agenda_results`(`company_id`, `meeting_id`, `agenda_id`, `max_vote_option`,  `entry_user_id`) VALUES ('1','106','134','3','1')

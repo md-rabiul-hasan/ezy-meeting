@@ -1,0 +1,54 @@
+[31-May-2020 12:13:54 UTC] PHP Fatal error:  Uncaught GuzzleHttp\Exception\ClientException: Client error: `POST https://zoom.us/oauth/token` resulted in a `401 Unauthorized` response:
+{"reason":"Invalid Token!","error":"invalid_request"}
+ in /home/sppcup4v0p6f/public_html/demo/meeting/zoom/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+Stack trace:
+#0 /home/sppcup4v0p6f/public_html/demo/meeting/zoom/vendor/guzzlehttp/guzzle/src/Middleware.php(65): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /home/sppcup4v0p6f/public_html/demo/meeting/zoom/vendor/guzzlehttp/promises/src/Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /home/sppcup4v0p6f/public_html/demo/meeting/zoom/vendor/guzzlehttp/promises/src/Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 /home/sppcup4v0p6f/public_html/demo/meeting/zoom/vendor/guzzlehttp/promises/src/TaskQueue.php(47): GuzzleHttp\Promise\Pr in /home/sppcup4v0p6f/public_html/demo/meeting/zoom/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113
+[31-May-2020 12:14:22 UTC] PHP Fatal error:  Uncaught GuzzleHttp\Exception\ClientException: Client error: `POST https://zoom.us/oauth/token` resulted in a `401 Unauthorized` response:
+{"reason":"Invalid Token!","error":"invalid_request"}
+ in /home/sppcup4v0p6f/public_html/demo/meeting/zoom/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+Stack trace:
+#0 /home/sppcup4v0p6f/public_html/demo/meeting/zoom/vendor/guzzlehttp/guzzle/src/Middleware.php(65): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /home/sppcup4v0p6f/public_html/demo/meeting/zoom/vendor/guzzlehttp/promises/src/Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /home/sppcup4v0p6f/public_html/demo/meeting/zoom/vendor/guzzlehttp/promises/src/Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 /home/sppcup4v0p6f/public_html/demo/meeting/zoom/vendor/guzzlehttp/promises/src/TaskQueue.php(47): GuzzleHttp\Promise\Pr in /home/sppcup4v0p6f/public_html/demo/meeting/zoom/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113
+[31-May-2020 12:14:53 UTC] PHP Fatal error:  Uncaught GuzzleHttp\Exception\ClientException: Client error: `POST https://zoom.us/oauth/token` resulted in a `401 Unauthorized` response:
+{"reason":"Invalid Token!","error":"invalid_request"}
+ in /home/sppcup4v0p6f/public_html/demo/meeting/zoom/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+Stack trace:
+#0 /home/sppcup4v0p6f/public_html/demo/meeting/zoom/vendor/guzzlehttp/guzzle/src/Middleware.php(65): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /home/sppcup4v0p6f/public_html/demo/meeting/zoom/vendor/guzzlehttp/promises/src/Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /home/sppcup4v0p6f/public_html/demo/meeting/zoom/vendor/guzzlehttp/promises/src/Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 /home/sppcup4v0p6f/public_html/demo/meeting/zoom/vendor/guzzlehttp/promises/src/TaskQueue.php(47): GuzzleHttp\Promise\Pr in /home/sppcup4v0p6f/public_html/demo/meeting/zoom/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113
+[31-May-2020 12:15:38 UTC] PHP Fatal error:  Uncaught GuzzleHttp\Exception\ClientException: Client error: `POST https://zoom.us/oauth/token` resulted in a `401 Unauthorized` response:
+{"reason":"Invalid Token!","error":"invalid_request"}
+ in /home/sppcup4v0p6f/public_html/demo/meeting/zoom/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+Stack trace:
+#0 /home/sppcup4v0p6f/public_html/demo/meeting/zoom/vendor/guzzlehttp/guzzle/src/Middleware.php(65): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /home/sppcup4v0p6f/public_html/demo/meeting/zoom/vendor/guzzlehttp/promises/src/Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /home/sppcup4v0p6f/public_html/demo/meeting/zoom/vendor/guzzlehttp/promises/src/Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 /home/sppcup4v0p6f/public_html/demo/meeting/zoom/vendor/guzzlehttp/promises/src/TaskQueue.php(47): GuzzleHttp\Promise\Pr in /home/sppcup4v0p6f/public_html/demo/meeting/zoom/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113
+[31-May-2020 12:17:19 UTC] PHP Fatal error:  Uncaught GuzzleHttp\Exception\ClientException: Client error: `POST https://zoom.us/oauth/token` resulted in a `401 Unauthorized` response:
+{"reason":"Invalid Token!","error":"invalid_request"}
+ in /home/sppcup4v0p6f/public_html/demo/meeting/zoom/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+Stack trace:
+#0 /home/sppcup4v0p6f/public_html/demo/meeting/zoom/vendor/guzzlehttp/guzzle/src/Middleware.php(65): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /home/sppcup4v0p6f/public_html/demo/meeting/zoom/vendor/guzzlehttp/promises/src/Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /home/sppcup4v0p6f/public_html/demo/meeting/zoom/vendor/guzzlehttp/promises/src/Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 /home/sppcup4v0p6f/public_html/demo/meeting/zoom/vendor/guzzlehttp/promises/src/TaskQueue.php(47): GuzzleHttp\Promise\Pr in /home/sppcup4v0p6f/public_html/demo/meeting/zoom/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113
+[31-May-2020 12:19:17 UTC] PHP Fatal error:  Uncaught GuzzleHttp\Exception\ClientException: Client error: `POST https://zoom.us/oauth/token` resulted in a `401 Unauthorized` response:
+{"reason":"Invalid Token!","error":"invalid_request"}
+ in /home/sppcup4v0p6f/public_html/demo/meeting/zoom/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+Stack trace:
+#0 /home/sppcup4v0p6f/public_html/demo/meeting/zoom/vendor/guzzlehttp/guzzle/src/Middleware.php(65): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /home/sppcup4v0p6f/public_html/demo/meeting/zoom/vendor/guzzlehttp/promises/src/Promise.php(203): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /home/sppcup4v0p6f/public_html/demo/meeting/zoom/vendor/guzzlehttp/promises/src/Promise.php(156): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), Array)
+#3 /home/sppcup4v0p6f/public_html/demo/meeting/zoom/vendor/guzzlehttp/promises/src/TaskQueue.php(47): GuzzleHttp\Promise\Pr in /home/sppcup4v0p6f/public_html/demo/meeting/zoom/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113
+[31-May-2020 12:19:51 UTC] PHP Notice:  Array to string conversion in /home/sppcup4v0p6f/public_html/demo/meeting/zoom/create-meeting.php on line 75
+[31-May-2020 12:19:51 UTC] PHP Notice:  Undefined variable: Array in /home/sppcup4v0p6f/public_html/demo/meeting/zoom/create-meeting.php on line 75
+[31-May-2020 12:26:25 UTC] PHP Notice:  Array to string conversion in /home/sppcup4v0p6f/public_html/demo/meeting/zoom/create-meeting.php on line 75
+[31-May-2020 12:26:25 UTC] PHP Notice:  Undefined variable: Array in /home/sppcup4v0p6f/public_html/demo/meeting/zoom/create-meeting.php on line 75
+[31-May-2020 15:29:08 UTC] PHP Notice:  Array to string conversion in /home/sppcup4v0p6f/public_html/demo/meeting/zoom/create-meeting.php on line 75
+[31-May-2020 15:29:08 UTC] PHP Notice:  Undefined variable: Array in /home/sppcup4v0p6f/public_html/demo/meeting/zoom/create-meeting.php on line 75

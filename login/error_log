@@ -1,0 +1,8 @@
+[08-Oct-2020 14:15:11 Asia/Dhaka] PHP Notice:  Undefined index: username in /home/sppcup4v0p6f/public_html/demo/login/login_submit.php on line 31
+[08-Oct-2020 14:15:11 Asia/Dhaka] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/sppcup4v0p6f/public_html/demo/login/login_submit.php on line 39
+[08-Oct-2020 14:15:11 Asia/Dhaka] PHP Warning:  Use of undefined constant company_id - assumed 'company_id' (this will throw an Error in a future version of PHP) in /home/sppcup4v0p6f/public_html/demo/login/login_submit.php on line 42
+[08-Oct-2020 14:15:11 Asia/Dhaka] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/sppcup4v0p6f/public_html/demo/login/login_submit.php on line 42
+[08-Oct-2020 16:22:50 Asia/Dhaka] PHP Notice:  Undefined index: username in /home/sppcup4v0p6f/public_html/demo/login/login_submit.php on line 31
+[08-Oct-2020 16:22:50 Asia/Dhaka] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/sppcup4v0p6f/public_html/demo/login/login_submit.php on line 39
+[08-Oct-2020 16:22:50 Asia/Dhaka] PHP Warning:  Use of undefined constant company_id - assumed 'company_id' (this will throw an Error in a future version of PHP) in /home/sppcup4v0p6f/public_html/demo/login/login_submit.php on line 42
+[08-Oct-2020 16:22:50 Asia/Dhaka] PHP Warning:  Use of undefined constant id - assumed 'id' (this will throw an Error in a future version of PHP) in /home/sppcup4v0p6f/public_html/demo/login/login_submit.php on line 42

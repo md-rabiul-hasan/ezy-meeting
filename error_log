@@ -1,0 +1,4 @@
+[08-Oct-2020 14:14:40 Asia/Dhaka] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sppcup4v0p6f/public_html/demo/index.php on line 227
+[08-Oct-2020 14:14:40 Asia/Dhaka] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sppcup4v0p6f/public_html/demo/index.php on line 241
+[08-Oct-2020 14:14:40 Asia/Dhaka] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sppcup4v0p6f/public_html/demo/index.php on line 263
+[08-Oct-2020 14:14:40 Asia/Dhaka] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/sppcup4v0p6f/public_html/demo/index.php on line 368
